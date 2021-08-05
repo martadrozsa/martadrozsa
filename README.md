@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Marta Denisczwicz Rozsa 👋
 
-- 🌱 I’m currently learning java, javascript, html and CSS
+- 🌱 I’m currently learning Java, JavaScript, HTML e CSS
 
  <div>
   <a href="https://github.com/martadrozsa">
