@@ -2,11 +2,11 @@
 
  <div>
   <a href="https://github.com/martadrozsa">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martadrozsa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martadrozsa&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<!-- <div style="display: inline_block"><br>
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martadrozsa&layout=compact&langs_count=7&theme=dark"/>
+ <img height="180em" align="left" src="https://streak-stats.demolab.com/?user=martadrozsa&theme=material">
+  </div>
+
+ <!-- <div style="display: inline_block"><br>
   <img align="center" alt="Marta-Js" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marta-Java" height="30" width="40"
@@ -17,12 +17,12 @@
   
   ##
  
-<div> 
+<!-- <div> 
   <a href = "mailto:marta.denisczwicz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/martadenisczwicz/" target="_blank"><img 
+  <a height="180em" align="left" href="https://www.linkedin.com/in/martadenisczwicz/" target="_blank"><img 
   src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
 
-</div>
+</div> -->
 
 <!--
 **martadrozsa/martadrozsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
