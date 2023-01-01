@@ -2,7 +2,7 @@
 
  <div>
   <a href="https://github.com/martadrozsa">
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martadrozsa&layout=compact&langs_count=7&theme=dark"/>
+   <img height="180em" align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martadrozsa&langs_count=7&layout=compact&theme=noctis_minimus"/>
  <img height="180em" align="left" src="https://streak-stats.demolab.com/?user=martadrozsa&theme=material">
   </div>
 
